@@ -544,6 +544,8 @@ class ComposerStaticInite8907edb3a0d000b96d3a44de66ce95a
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
+        'App\\Http\\Livewire\\Index' => __DIR__ . '/../..' . '/app/Http/Livewire/Index.php',
+        'App\\Http\\Livewire\\Site' => __DIR__ . '/../..' . '/app/Http/Livewire/Site.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
         'App\\Http\\Middleware\\PreventRequestsDuringMaintenance' => __DIR__ . '/../..' . '/app/Http/Middleware/PreventRequestsDuringMaintenance.php',
